@@ -1,4 +1,4 @@
-package Shape;
+package shape;
 
 public class DriverClass {
     public static void main(String args[]) {
